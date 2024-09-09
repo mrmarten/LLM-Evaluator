@@ -22,11 +22,17 @@ This application is a Streamlit-based interface for testing and interacting with
  
 
 URL1=your_first_model_url
+
 URL2=your_second_model_url
+
 URL3=your_third_model_url
+
 API_KEY_1=your_first_model_api_key
+
 API_KEY_2=your_second_model_api_key
+
 API_KEY_3=your_third_model_api_key
+
 PASSWORD=your_password
 
 
