@@ -1,4 +1,4 @@
-# LLM Evaulator App
+# LLM Evaluator App
 
 This application is a Streamlit-based interface for testing and interacting with several LLM models via APIs (in this example i use Azure). It allows users to input queries and get responses from three models of varying models, The app provides an easy-to-use interface to configure model parameters and retrieve results.
 
